@@ -1,4 +1,3 @@
-# my-resume
 !doctype html>
 <html lang="en">
 
